@@ -7,7 +7,7 @@
 **Стек:**
 - Python 
 - Django 
-- Posgresql
+- Postgresql
 
 ## Разработка
 
